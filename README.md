@@ -1,4 +1,3 @@
-# Energy Consumption Prediction
 
 A Deep Learning project using a Neural Network (MLP) to forecast energy consumption based on environmental variables.
 
